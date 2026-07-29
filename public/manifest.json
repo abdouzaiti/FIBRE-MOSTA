@@ -1,0 +1,17 @@
+{
+  "name": "Fibre Mosta",
+  "short_name": "Fibre Mosta",
+  "description": "Fiber-optic Wi-Fi password generator",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "192x192 512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
