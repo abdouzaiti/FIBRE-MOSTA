@@ -1,0 +1,6 @@
+{
+  "name": "Hex-Lab Auditor",
+  "description": "Deterministic pattern analysis tool for researching WPA key generation from SSID suffixes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
